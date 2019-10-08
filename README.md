@@ -6,6 +6,6 @@ This is the readme file for the tutorial repository.
 		</title>
 	</head>
 	<body>
-
+		<p>Change made as collaborator.</p>
 	</body>
 </html>
